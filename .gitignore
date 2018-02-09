@@ -1,0 +1,11 @@
+venv
+*.pyc
+staticfiles
+.env
+*.sqlite3
+node_modules
+lib
+bin
+include
+pip-selfcheck.json
+project_settings.py
